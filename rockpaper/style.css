@@ -1,0 +1,54 @@
+html {
+	margin-left: 50px;
+  font-size: 2em;
+  color: #676E80;
+  background-color: #DFE6F8;
+}
+
+#btns {
+	margin-top: 10px;
+}
+
+.button {
+  border: none;
+  padding: 15px 32px;
+  margin: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 2em;
+  border-radius: 8px;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+
+
+#rock {
+	background-color: #A9ACB2;
+}
+
+
+#paper {
+	background-color: #fff;
+}
+
+#scissors {
+	background-color: #F73C3C;
+}
+
+.newGame {
+	background-color: #F4B6D7;
+  border: none;
+  padding: 15px 32px;
+  margin: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 8px;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+.newGame:hover {
+	background-color: #FFEEF8;
+}
